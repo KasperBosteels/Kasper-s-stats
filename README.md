@@ -1,2 +1,2 @@
-[![Kasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasperBosteels&count_private=true&show_icons=true&include_all_commits=true&bg_color=20,ffff00,ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Kasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasperBosteels&count_private=true&show_icons=true&include_all_commits=true&bg_color=50,ffff00,ff0000&text_color=000000&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasperBosteels)](https://github.com/anuraghazra/github-readme-stats) 
