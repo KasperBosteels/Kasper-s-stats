@@ -1,2 +1,2 @@
-# Kasper-s-stats
-my cool stat sheet
+[![Kasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasperBosteels&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
